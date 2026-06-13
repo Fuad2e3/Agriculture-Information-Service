@@ -105,16 +105,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ---
 
-## 📬 Contact
 
-**Md. Nazmul Hossain**  
-📧 [223002089@student.green.ac.bd](mailto:223002089@student.green.ac.bd)  
-🐦 [@nazmul_1117 on X (Twitter)][x-url]  
-🔗 Project Link: [Agriculture Information Service][project-url]
-
-<p align="right">(<a href="#readme-top">Back to Top</a>)</p>
-
----
 
 ✨Happy Coding ✨
 
